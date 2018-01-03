@@ -13,5 +13,5 @@ Sample website with plenty of files for demos
 Some reference to deployment steps
 
 ##Maintenance
-Small section on maitaining the codebase
+Small section on maitaining the codebase. Few instruction will be fine
 
